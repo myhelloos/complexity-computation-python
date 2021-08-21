@@ -6,8 +6,8 @@
 @time: 8/22/21 12:21 AM
 @desc:
 """
-import networkx as nx
 import matplotlib.pyplot as plt
+import networkx as nx
 
 from utils import savefig
 
